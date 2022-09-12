@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/jserrano0933/e63c8f5b-9de8-413b-9e99-71fb5c3a1359/4d3fc3b5-39fe-4bb2-b4b1-0912cfa9b7d1/_apis/work/boardbadge/96fca40c-7a50-4354-a622-a196791fd03b)](https://dev.azure.com/jserrano0933/e63c8f5b-9de8-413b-9e99-71fb5c3a1359/_boards/board/t/4d3fc3b5-39fe-4bb2-b4b1-0912cfa9b7d1/Microsoft.RequirementCategory)
 ---
 SharpHound Open Source Client version: 1.0.4
 ---
